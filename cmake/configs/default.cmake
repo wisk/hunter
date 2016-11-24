@@ -80,6 +80,7 @@ hunter_config(QtCMakeExtra VERSION 1.0.22)
 hunter_config(QtQmlManager VERSION 1.0.0)
 hunter_config(RapidJSON VERSION 1.0.2-p2)
 hunter_config(SDL2 VERSION 2.0.4-p2)
+hunter_config(SOCI VERSION 4.0.0 CMAKE_ARGS CMAKE_POSITION_INDEPENDENT_CODE=TRUE)
 hunter_config(SQLite3 VERSION autoconf-3080803) #R-Tree enabled
 hunter_config(Sober VERSION 0.1.3)
 hunter_config(Sugar VERSION 1.2.2)
